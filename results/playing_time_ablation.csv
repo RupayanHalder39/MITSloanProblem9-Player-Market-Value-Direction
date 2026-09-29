@@ -1,0 +1,5 @@
+label,variant,n_features,val_residual_mae,val_residual_r2,val_residual_spearman
+ABLATION,current_value_only,1,0.20327239314526202,-8.203574911602729e-06,0.35638130896670595
+ABLATION,current_value_plus_playing_time_only,2,0.20047210346192346,0.012300893394756818,0.18365213092867103
+ABLATION,current_value_plus_non_playing_time_performance,24,0.20483580407211616,0.0213453831681768,0.1387607133125433
+ABLATION,current_value_plus_all_performance,25,0.20416401132843884,0.027923600387904868,0.22413822494594962

@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this research repository, please cite it using this metadata."
+title: "Beyond Today’s Price: Predicting the Direction of Football Player Market Values from Recent Performance"
+type: software
+authors:
+  - family-names: Halder
+    given-names: Rupayan
+repository-code: "https://github.com/RupayanHalder39/MITSloanProblem9-Player-Market-Value-Direction"
+url: "https://github.com/RupayanHalder39/MITSloanProblem9-Player-Market-Value-Direction"
+license: MIT
