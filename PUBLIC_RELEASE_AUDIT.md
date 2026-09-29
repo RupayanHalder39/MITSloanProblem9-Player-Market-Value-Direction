@@ -44,8 +44,8 @@ Verified against frozen source tables: 752 Championship valuation events / 606 p
 ## Publication
 
 - Repository: https://github.com/RupayanHalder39/MITSloanProblem9-Player-Market-Value-Direction
-- Commit: initial public release commit (see repository history)
-- Push: pending final network operation
+- Initial release commit: `cda1d8d`
+- Push: successful to `origin/main`
 
 ## Remaining limitation
 
